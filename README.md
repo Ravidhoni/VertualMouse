@@ -9,6 +9,12 @@ This project enables real-time hand gesture recognition to control the cursor on
 - Left-click, right-click, and double-click actions
 - Scrolling up and down gestures
 - Zooming in and out gestures
+## Customsible cursor sensitivity and scroll delay
+ ![config](https://github.com/Ravidhoni/VertualMouse/assets/138365899/b79763f2-c12e-4101-b25c-3926ec2b1dfe)
+ 
+![config set](https://github.com/Ravidhoni/VertualMouse/assets/138365899/030e00a4-fd13-4f40-a017-e0f2a86a1de2)
+
+
 
 ## Requirements
 
