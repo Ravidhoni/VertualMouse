@@ -49,7 +49,7 @@ This project enables real-time hand gesture recognition to control the cursor on
 # Contributing
  Contributions to this project are welcome! If you have suggestions for improvements, or want to add new features, feel free to open an issue or submit a pull request.
 # Contact
- Author: Ravi
+ Author: Ravi <br>
  Gmail: talariravi0808@gmail.com
  
 Feel free to reach out with any questions, feedback, or suggestions!
