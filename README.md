@@ -30,7 +30,23 @@ This project enables real-time hand gesture recognition to control the cursor on
    pip install -r requirements.txt
 ## Usage
 1. Run the main Python script to start the VirtualMouse application:
-```bash
- app.py 
+   ```bash
+   app.py
+2.Use hand gestures in front of your webcam to control the cursor:
+ * Cursor moving with five fingers open
+   ![WhatsApp Image 2024-05-15 at 18 56 28_b2072a1b](https://github.com/Ravidhoni/VertualMouse/assets/138365899/85c6adb5-341e-4c55-a4dc-44c3df4465cc)
+ * make cursor won't move while hand is moving [ thumb finger down remaing all open]
+   ![WhatsApp Image 2024-05-15 at 18 57 55_ac99adf0](https://github.com/Ravidhoni/VertualMouse/assets/138365899/f7f44c98-8d82-4b62-b2cd-4543aa647532)
+ * Draging
+   https://github.com/Ravidhoni/VertualMouse/assets/138365899/d68f6f48-9e98-4b51-9ebc-9c7de6dda07b
+ * Zoom-in
+   https://github.com/Ravidhoni/VertualMouse/assets/138365899/9723a774-e57b-4934-a00f-957368d3cd06
+ * Zoom-Out
+   https://github.com/Ravidhoni/VertualMouse/assets/138365899/9b297ab2-18e8-4168-833b-6c25a860add3
+ *
+
+
+
+   
 
 
