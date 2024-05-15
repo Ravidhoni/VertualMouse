@@ -17,6 +17,8 @@ This project enables real-time hand gesture recognition to control the cursor on
 - Mediapipe
 - PyAutoGUI
 - SpeechRecognition (optional, for voice commands)
+  ## Lincense
+ * This project is Lincensed under MIT License 
 
 ## Installation
 1. Clone this repository to your local machine:
@@ -44,8 +46,13 @@ This project enables real-time hand gesture recognition to control the cursor on
  * Zoom-Out
    https://github.com/Ravidhoni/VertualMouse/assets/138365899/9b297ab2-18e8-4168-833b-6c25a860add3
  *
-
-
+# Contributing
+ Contributions to this project are welcome! If you have suggestions for improvements, or want to add new features, feel free to open an issue or submit a pull request.
+# Contact
+ Author: Ravi
+ Gmail: talariravi0808@gmail.com
+ 
+Feel free to reach out with any questions, feedback, or suggestions!
 
    
 
