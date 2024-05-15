@@ -19,6 +19,18 @@ This project enables real-time hand gesture recognition to control the cursor on
 - SpeechRecognition (optional, for voice commands)
 
 ## Installation
-
 1. Clone this repository to your local machine:
    ```bash
+   https://github.com/Ravidhoni/VertualMouse.git
+2. Navigate to the project directory:
+   ```bash
+   cd VertualMouse
+3. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+## Usage
+1. Run the main Python script to start the VirtualMouse application:
+```bash
+ app.py 
+
+
